@@ -2,7 +2,7 @@
 
 This is the **backend** service for the AI Code Reviewer web app. It exposes a RESTful API endpoint that accepts source code and returns an AI-generated review using the OpenAI API.
 
-🔗 **Live API Endpoint**: [https://code-reviewer-backend-n30h.onrender.com](https://code-reviewer-backend-n30h.onrender.com)
+🔗 **Live API Endpoint**:🔐 The backend is hosted securely and not exposed publicly to avoid abuse.
 
 ---
 
